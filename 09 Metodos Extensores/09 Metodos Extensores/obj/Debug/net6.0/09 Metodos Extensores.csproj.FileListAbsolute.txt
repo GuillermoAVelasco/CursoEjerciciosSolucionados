@@ -1,0 +1,15 @@
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\obj\Debug\net6.0\09 Metodos Extensores.csproj.AssemblyReference.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\obj\Debug\net6.0\09 Metodos Extensores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\obj\Debug\net6.0\09 Metodos Extensores.AssemblyInfoInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\obj\Debug\net6.0\09 Metodos Extensores.AssemblyInfo.cs
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\obj\Debug\net6.0\09 Metodos Extensores.csproj.CoreCompileInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\bin\Debug\net6.0\09 Metodos Extensores.exe
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\bin\Debug\net6.0\09 Metodos Extensores.deps.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\bin\Debug\net6.0\09 Metodos Extensores.runtimeconfig.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\bin\Debug\net6.0\09 Metodos Extensores.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\bin\Debug\net6.0\09 Metodos Extensores.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\obj\Debug\net6.0\09 Metodos Extensores.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\obj\Debug\net6.0\refint\09 Metodos Extensores.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\obj\Debug\net6.0\09 Metodos Extensores.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\obj\Debug\net6.0\09 Metodos Extensores.genruntimeconfig.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\09 Metodos Extensores\09 Metodos Extensores\obj\Debug\net6.0\ref\09 Metodos Extensores.dll
