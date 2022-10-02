@@ -1,0 +1,15 @@
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\bin\Debug\net6.0\04-Genericos.exe
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\bin\Debug\net6.0\04-Genericos.deps.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\bin\Debug\net6.0\04-Genericos.runtimeconfig.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\bin\Debug\net6.0\04-Genericos.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\bin\Debug\net6.0\04-Genericos.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\obj\Debug\net6.0\04-Genericos.csproj.AssemblyReference.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\obj\Debug\net6.0\04-Genericos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\obj\Debug\net6.0\04-Genericos.AssemblyInfoInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\obj\Debug\net6.0\04-Genericos.AssemblyInfo.cs
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\obj\Debug\net6.0\04-Genericos.csproj.CoreCompileInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\obj\Debug\net6.0\04-Genericos.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\obj\Debug\net6.0\refint\04-Genericos.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\obj\Debug\net6.0\04-Genericos.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\obj\Debug\net6.0\04-Genericos.genruntimeconfig.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\04-Genericos\04-Genericos\obj\Debug\net6.0\ref\04-Genericos.dll
