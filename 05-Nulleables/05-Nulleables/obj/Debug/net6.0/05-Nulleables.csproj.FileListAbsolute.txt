@@ -1,0 +1,15 @@
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\bin\Debug\net6.0\05-Nulleables.exe
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\bin\Debug\net6.0\05-Nulleables.deps.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\bin\Debug\net6.0\05-Nulleables.runtimeconfig.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\bin\Debug\net6.0\05-Nulleables.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\bin\Debug\net6.0\05-Nulleables.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\obj\Debug\net6.0\05-Nulleables.csproj.AssemblyReference.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\obj\Debug\net6.0\05-Nulleables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\obj\Debug\net6.0\05-Nulleables.AssemblyInfoInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\obj\Debug\net6.0\05-Nulleables.AssemblyInfo.cs
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\obj\Debug\net6.0\05-Nulleables.csproj.CoreCompileInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\obj\Debug\net6.0\05-Nulleables.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\obj\Debug\net6.0\refint\05-Nulleables.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\obj\Debug\net6.0\05-Nulleables.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\obj\Debug\net6.0\05-Nulleables.genruntimeconfig.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\05-Nulleables\05-Nulleables\obj\Debug\net6.0\ref\05-Nulleables.dll
