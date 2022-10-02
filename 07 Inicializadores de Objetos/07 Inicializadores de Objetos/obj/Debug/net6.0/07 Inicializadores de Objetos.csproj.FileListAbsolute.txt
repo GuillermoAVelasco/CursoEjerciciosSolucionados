@@ -1,0 +1,15 @@
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\bin\Debug\net6.0\07 Inicializadores de Objetos.exe
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\bin\Debug\net6.0\07 Inicializadores de Objetos.deps.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\bin\Debug\net6.0\07 Inicializadores de Objetos.runtimeconfig.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\bin\Debug\net6.0\07 Inicializadores de Objetos.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\bin\Debug\net6.0\07 Inicializadores de Objetos.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\obj\Debug\net6.0\07 Inicializadores de Objetos.csproj.AssemblyReference.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\obj\Debug\net6.0\07 Inicializadores de Objetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\obj\Debug\net6.0\07 Inicializadores de Objetos.AssemblyInfoInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\obj\Debug\net6.0\07 Inicializadores de Objetos.AssemblyInfo.cs
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\obj\Debug\net6.0\07 Inicializadores de Objetos.csproj.CoreCompileInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\obj\Debug\net6.0\07 Inicializadores de Objetos.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\obj\Debug\net6.0\refint\07 Inicializadores de Objetos.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\obj\Debug\net6.0\07 Inicializadores de Objetos.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\obj\Debug\net6.0\07 Inicializadores de Objetos.genruntimeconfig.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\07 Inicializadores de Objetos\07 Inicializadores de Objetos\obj\Debug\net6.0\ref\07 Inicializadores de Objetos.dll
