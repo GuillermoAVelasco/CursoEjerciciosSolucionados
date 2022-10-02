@@ -1,0 +1,15 @@
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\obj\Debug\net6.0\08 Tipos Anonimos Inmutables.csproj.AssemblyReference.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\obj\Debug\net6.0\08 Tipos Anonimos Inmutables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\obj\Debug\net6.0\08 Tipos Anonimos Inmutables.AssemblyInfoInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\obj\Debug\net6.0\08 Tipos Anonimos Inmutables.AssemblyInfo.cs
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\obj\Debug\net6.0\08 Tipos Anonimos Inmutables.csproj.CoreCompileInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\bin\Debug\net6.0\08 Tipos Anonimos Inmutables.exe
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\bin\Debug\net6.0\08 Tipos Anonimos Inmutables.deps.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\bin\Debug\net6.0\08 Tipos Anonimos Inmutables.runtimeconfig.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\bin\Debug\net6.0\08 Tipos Anonimos Inmutables.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\bin\Debug\net6.0\08 Tipos Anonimos Inmutables.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\obj\Debug\net6.0\08 Tipos Anonimos Inmutables.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\obj\Debug\net6.0\refint\08 Tipos Anonimos Inmutables.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\obj\Debug\net6.0\08 Tipos Anonimos Inmutables.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\obj\Debug\net6.0\08 Tipos Anonimos Inmutables.genruntimeconfig.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\08 Tipos Anonimos Inmutables\08 Tipos Anonimos Inmutables\obj\Debug\net6.0\ref\08 Tipos Anonimos Inmutables.dll
