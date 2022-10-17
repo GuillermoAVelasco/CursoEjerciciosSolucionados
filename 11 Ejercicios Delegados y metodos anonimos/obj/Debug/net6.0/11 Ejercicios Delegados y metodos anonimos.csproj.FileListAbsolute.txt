@@ -1,0 +1,15 @@
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\bin\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.exe
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\bin\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.deps.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\bin\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.runtimeconfig.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\bin\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\bin\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\obj\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.csproj.AssemblyReference.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\obj\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\obj\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.AssemblyInfoInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\obj\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.AssemblyInfo.cs
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\obj\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.csproj.CoreCompileInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\obj\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\obj\Debug\net6.0\refint\11 Ejercicios Delegados y metodos anonimos.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\obj\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\obj\Debug\net6.0\11 Ejercicios Delegados y metodos anonimos.genruntimeconfig.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\11 Ejercicios Delegados y metodos anonimos\obj\Debug\net6.0\ref\11 Ejercicios Delegados y metodos anonimos.dll

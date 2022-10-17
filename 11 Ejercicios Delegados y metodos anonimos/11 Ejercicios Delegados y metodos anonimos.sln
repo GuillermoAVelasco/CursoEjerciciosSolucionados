@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 Ejercicios Delegados y metodos anonimos", "11 Ejercicios Delegados y metodos anonimos.csproj", "{0C5AA3F4-81CD-4C59-83CE-5500FF4AE377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C5AA3F4-81CD-4C59-83CE-5500FF4AE377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5AA3F4-81CD-4C59-83CE-5500FF4AE377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5AA3F4-81CD-4C59-83CE-5500FF4AE377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5AA3F4-81CD-4C59-83CE-5500FF4AE377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47F5F9A4-0F99-4A36-B177-AAA3E5CBBE56}
+	EndGlobalSection
+EndGlobal
