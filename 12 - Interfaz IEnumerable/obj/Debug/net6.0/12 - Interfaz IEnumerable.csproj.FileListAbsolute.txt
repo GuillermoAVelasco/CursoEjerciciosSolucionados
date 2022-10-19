@@ -1,0 +1,15 @@
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\bin\Debug\net6.0\12 - Interfaz IEnumerable.exe
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\bin\Debug\net6.0\12 - Interfaz IEnumerable.deps.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\bin\Debug\net6.0\12 - Interfaz IEnumerable.runtimeconfig.json
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\bin\Debug\net6.0\12 - Interfaz IEnumerable.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\bin\Debug\net6.0\12 - Interfaz IEnumerable.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\obj\Debug\net6.0\12 - Interfaz IEnumerable.csproj.AssemblyReference.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\obj\Debug\net6.0\12 - Interfaz IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\obj\Debug\net6.0\12 - Interfaz IEnumerable.AssemblyInfoInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\obj\Debug\net6.0\12 - Interfaz IEnumerable.AssemblyInfo.cs
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\obj\Debug\net6.0\12 - Interfaz IEnumerable.csproj.CoreCompileInputs.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\obj\Debug\net6.0\12 - Interfaz IEnumerable.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\obj\Debug\net6.0\refint\12 - Interfaz IEnumerable.dll
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\obj\Debug\net6.0\12 - Interfaz IEnumerable.pdb
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\obj\Debug\net6.0\12 - Interfaz IEnumerable.genruntimeconfig.cache
+D:\Guille\investigando .net\CursoSoluciones\MisSoluciones\12 - Interfaz IEnumerable\obj\Debug\net6.0\ref\12 - Interfaz IEnumerable.dll
