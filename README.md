@@ -16,4 +16,6 @@
 
 Material2
 
-AspNetCore Api - Ejercicios usando singleton, scoped y transient.
+NetCore Api Parte 1- Ejercicios usando singleton, scoped y transient.
+
+NetCore Api Parte 2- Ejercicios CRUD con https://jsonplaceholder.typicode.com/guide/, FROMROUTER, FROMHEADER ,FROMBODY, FROMQUERY ,FROMSERVICES, , Logger, ILoggerFactory
