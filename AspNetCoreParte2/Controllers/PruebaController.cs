@@ -100,15 +100,16 @@ namespace AspNetCoreParte2.Controllers
         [HttpGet("Log")]
         public IActionResult Log()
         {
-            var logger= _loggerFactory.CreateLogger("Prueba.Logger");
+            var logger = _loggerFactory.CreateLogger("Personalizado");
+            //var logger= _loggerFactory.CreateLogger("Prueba.Logger");
             //var logger = _logger;
             Console.WriteLine();
-            Console.WriteLine("Probando REGISTRO LOG");
-            logger.LogTrace("Logueando con TRACE");
-            logger.LogDebug("Logueando con DEBUG");
-            logger.LogInformation("Logueando con INFORMACION");
-            logger.LogWarning("Logueando con WARNING");
-            logger.LogError("Logueando con ERROR");
+            Console.WriteLine("Probando REGISTRO LOG---->");
+            logger.LogTrace("Logueando con TRACE"); Console.WriteLine();
+            logger.LogDebug("Logueando con DEBUG"); Console.WriteLine();
+            logger.LogInformation("Logueando con INFORMACION"); Console.WriteLine();
+            logger.LogWarning("Logueando con WARNING"); Console.WriteLine();
+            logger.LogError("Logueando con ERROR"); Console.WriteLine();
             logger.LogCritical("Logueando con CRITICAL");
 
             
