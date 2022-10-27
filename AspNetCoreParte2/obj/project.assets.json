@@ -5706,11 +5706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Guille\\investigando .net\\CursoSoluciones\\MisSoluciones\\AspNetCoreParte2\\AspNetCoreParte2.csproj",
+      "projectUniqueName": "D:\\Guille\\investigando .net\\CursoSoluciones\\CursoEjerciciosSolucionados\\AspNetCoreParte2\\AspNetCoreParte2.csproj",
       "projectName": "AspNetCoreParte2",
-      "projectPath": "D:\\Guille\\investigando .net\\CursoSoluciones\\MisSoluciones\\AspNetCoreParte2\\AspNetCoreParte2.csproj",
+      "projectPath": "D:\\Guille\\investigando .net\\CursoSoluciones\\CursoEjerciciosSolucionados\\AspNetCoreParte2\\AspNetCoreParte2.csproj",
       "packagesPath": "C:\\Users\\alan_\\.nuget\\packages\\",
-      "outputPath": "D:\\Guille\\investigando .net\\CursoSoluciones\\MisSoluciones\\AspNetCoreParte2\\obj\\",
+      "outputPath": "D:\\Guille\\investigando .net\\CursoSoluciones\\CursoEjerciciosSolucionados\\AspNetCoreParte2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
